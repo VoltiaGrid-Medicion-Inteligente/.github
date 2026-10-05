@@ -46,4 +46,19 @@
 
 ## Equipo / Team
 
-<!-- TODO: names + @github + roles P1-P4 -->
+| Rol | Responsabilidad | Integrante / GitHub |
+|---|---|---|
+| P1 — Backend y mensajería | FastAPI, RabbitMQ, simuladores, API | <!-- TODO: nombre + @github --> |
+| P2 — Ingeniería de datos | Spark, reglas de negocio, rendimiento | <!-- TODO: nombre + @github --> |
+| P3 — Cloud y DevOps | Docker, AWS, Airflow, CI/CD, EKS | <!-- TODO: nombre + @github --> |
+| P4 — Arquitectura y analítica | Docs, ADRs, costos, modelo dimensional, Power BI | <!-- TODO: nombre + @github --> |
+
+Repos de la organización:
+
+| Repo | Contenido |
+|---|---|
+| `voltiagrid-api` | FastAPI, simuladores, consumidores RabbitMQ, seed (este repo) |
+| `voltiagrid-data` | Spark, DAGs de Airflow, reglas de negocio |
+| `voltiagrid-analytics` | Modelo dimensional, Power BI |
+| `voltiagrid-docs` | Arquitectura completa, ADRs, costos, runbook |
+
